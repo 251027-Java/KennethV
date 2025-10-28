@@ -24,3 +24,7 @@
 - git add <filename> - adds a file and its changes to staging
 - git commit - create a save state
 	- -m "(message)" - add a professional commit message
+- git status - display status of the repo
+- git init - initialized new local repo
+- git log - display commit history
+
