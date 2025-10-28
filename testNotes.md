@@ -20,3 +20,7 @@
 - Relative Path - File path starting w . that defines the relation to the current working dir
 	- .. - used w Relative paths to denote the parent dir
 	
+## Git Notes
+- git add <filename> - adds a file and its changes to staging
+- git commit - create a save state
+	- -m "(message)" - add a professional commit message
